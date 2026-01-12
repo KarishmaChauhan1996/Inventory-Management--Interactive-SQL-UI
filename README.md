@@ -68,10 +68,10 @@ See live results on the screen without writing any SQL
 1. Clone the repository
    
 3. Install dependencies
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 4. Run the Streamlit app
-   streamlit run app.py
+   - streamlit run app.py
  
 
 
