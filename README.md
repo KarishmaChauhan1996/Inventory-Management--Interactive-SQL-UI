@@ -26,15 +26,12 @@ Helps understand how real-world applications are designed using multiple layers
 
 Build tools that non-technical users can easily use
 
-
-## Data Overview
-
-
-
 ## Tools & Technologies
 
+- Python 3.11.9
 - Pandas, NumPy, Matplotlib, Seaborn, Streamlit
 - MySQL
+- python-dotenv (for secure credentials
 - Data Format	CSV file
 
 ## Steps followed:
@@ -67,7 +64,10 @@ Run calculations using database functions
 
 See live results on the screen without writing any SQL
 
-
+### How to Run Locally
+1. Clone the repository
+2. Install dependencies
+3. Run the Streamlit app 
 
 
 
