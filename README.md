@@ -66,8 +66,13 @@ See live results on the screen without writing any SQL
 
 ### How to Run Locally
 1. Clone the repository
-2. Install dependencies
-3. Run the Streamlit app 
+   
+3. Install dependencies
+   pip install -r requirements.txt
+
+4. Run the Streamlit app
+   streamlit run app.py
+ 
 
 
 
