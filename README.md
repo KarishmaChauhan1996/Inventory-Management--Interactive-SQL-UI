@@ -2,16 +2,9 @@
 
 ## Project Overview
 
-Goals
-
-Requirements
-
-Machine Learning Algorithm Used
-
-Metrics
-
-Results
 This project is about building a powerful web-based application using Python (Streamlit) that allows users to interact with a MySQL database without needing to write any SQL code.
+
+## Objective
 
 In the real world, many people such as managers or team leads need to work with data stored in databases, but they do not know SQL. This application helps those users perform important tasks easily, such as:
 
@@ -22,6 +15,20 @@ Running operations (for example, updating stock)
 Checking reports or summaries
 
 All of this can be done using a simple and user-friendly interface.
+
+## Data Overview
+
+
+
+Requirements
+
+Machine Learning Algorithm Used
+
+Metrics
+
+Results
+
+
 
 How the Project Works (2 Main Steps)
 Step 1: Build the MySQL Database
