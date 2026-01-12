@@ -17,17 +17,33 @@ Checking reports or summaries
 
 ## Data Overview
 
+#### What Makes This Project Advanced?
+
+Combines SQL (backend) with Python (frontend)
+
+Uses real database tools like views, stored procedures, and functions
+
+Demonstrates how systems are built for inventory, sales, and operations
+
+Helps understand how real-world applications are designed using multiple layers
+
+Teaches how to build tools that non-technical users can easily use
+
 ## Tools & Technologies
 
 - Pandas, NumPy, Matplotlib, Seaborn
 - MySQL
 - Data Format	CSV file
 
-## Steps followed:(2 Main Steps)
+## Steps followed:
 
 #### Step 1: Build the MySQL Database
 
 We designed a smart and well-structured database that includes:
+
+Tables: Used to store data related to products, orders, shipments, and inventory
+
+Views: Used for generating reports and summaries (for example, product history)
 
 Stored Procedures: For actions like receiving an order and updating stock
 
@@ -49,21 +65,9 @@ Run calculations using database functions
 
 See live results on the screen without writing any SQL
 
-What Makes This Project Advanced?
-
-Combines SQL (backend) with Python (frontend)
-
-Uses real database tools like views, stored procedures, and functions
-
-Demonstrates how systems are built for inventory, sales, and operations
-
-Helps understand how real-world applications are designed using multiple layers
-
-Teaches how to build tools that non-technical users can easily use
 
 
 
 
-Tables: Used to store data related to products, orders, shipments, and inventory
 
-Views: Used for generating reports and summaries (for example, product history)
+
