@@ -14,26 +14,20 @@ Running operations (for example, updating stock)
 
 Checking reports or summaries
 
-All of this can be done using a simple and user-friendly interface.
 
 ## Data Overview
 
+## Tools & Technologies
 
+- Pandas, NumPy, Matplotlib, Seaborn
+- MySQL
+- Data Format	CSV file
 
-Requirements
+## Steps followed:(2 Main Steps)
 
-Machine Learning Algorithm Used
+#### Step 1: Build the MySQL Database
 
-Metrics
-
-Results
-
-
-
-How the Project Works (2 Main Steps)
-Step 1: Build the MySQL Database
-
-We will design a smart and well-structured database that includes:
+We designed a smart and well-structured database that includes:
 
 Stored Procedures: For actions like receiving an order and updating stock
 
@@ -41,7 +35,7 @@ Functions: For business calculations (for example, checking if a product needs r
 
 This step simulates how businesses store and organize data with rules built directly into the database.
 
-Step 2: Build the Streamlit Frontend
+##### Step 2: Build the Streamlit Frontend
 
 Next, we will create a web interface using Streamlit that allows users to:
 
