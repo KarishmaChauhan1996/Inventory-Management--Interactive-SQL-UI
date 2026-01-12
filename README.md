@@ -33,7 +33,7 @@ Build tools that non-technical users can easily use
 
 ## Tools & Technologies
 
-- Pandas, NumPy, Matplotlib, Seaborn
+- Pandas, NumPy, Matplotlib, Seaborn, Streamlit
 - MySQL
 - Data Format	CSV file
 
