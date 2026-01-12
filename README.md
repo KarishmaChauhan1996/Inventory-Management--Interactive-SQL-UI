@@ -14,9 +14,6 @@ Running operations (for example, updating stock)
 
 Checking reports or summaries
 
-
-## Data Overview
-
 #### What Makes This Project Advanced?
 
 Combines SQL (backend) with Python (frontend)
@@ -27,7 +24,12 @@ Demonstrates how systems are built for inventory, sales, and operations
 
 Helps understand how real-world applications are designed using multiple layers
 
-Teaches how to build tools that non-technical users can easily use
+Build tools that non-technical users can easily use
+
+
+## Data Overview
+
+
 
 ## Tools & Technologies
 
