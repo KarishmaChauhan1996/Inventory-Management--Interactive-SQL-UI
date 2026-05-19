@@ -36,7 +36,7 @@ Build tools that non-technical users can easily use
 
 ## Steps followed:
 
-#### Step 1: Build the MySQL Database
+### Step 1: Build the MySQL Database
 
 We designed a smart and well-structured database that includes:
 
@@ -50,7 +50,7 @@ Functions: For business calculations (for example, checking if a product needs r
 
 This step simulates how businesses store and organize data with rules built directly into the database.
 
-##### Step 2: Build the Streamlit Frontend
+#### Step 2: Build the Streamlit Frontend
 
 Next, we will create a web interface using Streamlit that allows users to:
 
@@ -64,7 +64,7 @@ Run calculations using database functions
 
 See live results on the screen without writing any SQL
 
-### How to Run Locally
+## How to Run Locally
 1. Clone the repository
    
 3. Install dependencies
