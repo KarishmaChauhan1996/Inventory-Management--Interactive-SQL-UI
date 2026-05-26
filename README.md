@@ -50,9 +50,9 @@ Functions: For business calculations (for example, checking if a product needs r
 
 This step simulates how businesses store and organize data with rules built directly into the database.
 
-#### Step 2: Build the Streamlit Frontend
+### Step 2: Build the Streamlit Frontend
 
-Next, we will create a web interface using Streamlit that allows users to:
+Next, we  created a web interface using Streamlit that allows users to:
 
 View and filter data from tables and views
 
